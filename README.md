@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate programmer and continuous learner</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fahad1482&label=Profile%20views&color=40d908&style=flat alt="fahad1482" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FaHaD1482&label=Profile%20views&color=40d908&style=flat alt="fahad1482" /> </p>
 
 <br/>
 
@@ -61,10 +61,10 @@
 
   <br>
 
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=fahad1482&count_private=true&show_icons=true&hide_border=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=FaHaD1482&count_private=true&show_icons=true&hide_border=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
   <br>
 
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad1482&&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaHaD1482&&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
