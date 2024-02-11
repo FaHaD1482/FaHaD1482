@@ -6,9 +6,7 @@
 
 <h3 align="center">A passionate programmer and continuous learner</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=FaHaD1482&label=Profile%20views&color=40d908&style=flat alt="fahad1482" /> </p>
-
-<br/>
+<p align="center"> <img src = "https://komarev.com/ghpvc/?username=FaHaD1482&color=blueviolet&style=flat") /> </p>
 
 <div align="center">
  
