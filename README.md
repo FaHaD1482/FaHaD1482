@@ -59,11 +59,11 @@
 
   <img width=390 align="center" src="https://github-readme-streak-stats-khaki-beta.vercel.app?user=FaHaD1482&count_private=true&theme=react&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-  <br>
+  <br><br>
 
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=FaHaD1482&count_private=true&show_icons=true&hide_border=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-  <br>
+  <br><br>
 
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaHaD1482&&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
